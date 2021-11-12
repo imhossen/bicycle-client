@@ -1,6 +1,6 @@
-# 🎴 Bicycle Summit - WEB APP
+# 🎴 Bicycle Summit
 
-## Full Stack Cycle Shop Website
+## Full Stack BiCycle Shop
 
 This is an Full-Stack Bicycle Shop website. User can login the website create account. 
 
