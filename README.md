@@ -14,5 +14,5 @@ This is an Full-Stack Bicycle Shop website. User can login the website create ac
 
 ## 💜 Tecnology Used
 
-Front End : React js, Bootstrap, Material UI, React Router, Firebase Authentication, React Hook Form
-Backend : Node js,Express js, MongoDB
+### Front End : React js, Bootstrap, Material UI, React Router, Firebase Authentication, React Hook Form
+### Backend : Node js,Express js, MongoDB
